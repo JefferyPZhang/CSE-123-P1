@@ -1,3 +1,5 @@
+# Programming Assignment 1: Mini-Git
+
 **Assignment Spec: **
 
 "In our system, as in Git, a set of documents and their histories are referred to as a repository. Each revision within a repository is referred to as a commit. You will implement a class called Repository that supports a subset of the operations supported by real Git repositories. (We will not be dealing with features such as branching or remote repositories. We will assume histories are fairly linear and mostly take place in a single, local repository.)"
